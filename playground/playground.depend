@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504269798 source:d:\coding\playground\main.cpp
+	<iostream>
+	<time.h>
+
