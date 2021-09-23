@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556059211 source:d:\coding\cubescramble\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstring>
+	<ctime>
+

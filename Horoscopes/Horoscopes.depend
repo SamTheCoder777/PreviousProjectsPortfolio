@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533227292 source:d:\coding\horoscopes\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+

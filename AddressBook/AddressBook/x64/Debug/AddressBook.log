@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  adddialog.cpp
+  AddressBook.cpp
+  main.cpp
+  qrc_AddressBook.cpp
+  moc_AddressBook.cpp
+  moc_adddialog.cpp
+  AddressBook.vcxproj -> D:\Coding\AddressBook\x64\Debug\AddressBook.exe

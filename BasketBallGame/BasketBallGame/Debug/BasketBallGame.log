@@ -1,0 +1,11 @@
+﻿  BasketBallGame.cpp
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(15,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(113,20): warning C4305:  'argument': truncation from '__int64' to 'unsigned int'
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(113,9): warning C4309:  'argument': truncation of constant value
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(116,20): warning C4305:  'argument': truncation from '__int64' to 'unsigned int'
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(116,9): warning C4309:  'argument': truncation of constant value
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(119,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(123,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(125,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Coding\BasketBallGame\BasketBallGame\BasketBallGame.cpp(127,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BasketBallGame.vcxproj -> D:\Coding\BasketBallGame\Debug\BasketBallGame.exe
